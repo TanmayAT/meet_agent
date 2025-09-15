@@ -63,4 +63,3 @@ Choose **Custom** when prompted.
 
 ---
 
-Would you like me to also **add setup instructions** (like how to run the backend locally with FastAPI/uvicorn + required env vars), or should this README stay **usage-only** for now?
