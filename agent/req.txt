@@ -1,0 +1,15 @@
+livekit-agents==0.12.20
+livekit-plugins-openai==0.12.3
+livekit-plugins-cartesia==0.4.11
+livekit-plugins-deepgram==0.7.3
+livekit-plugins-silero==0.7.5
+livekit-plugins-turn-detector==0.4.4
+python-dotenv~=1.0
+livekit-plugins-google
+livekit-plugins-elevenlabs
+llama_index
+aiofile
+groq
+livekit-plugins-noise-cancellation
+aiohttp
+livekit-plugins-groq

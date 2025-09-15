@@ -1,0 +1,11 @@
+{
+   "dispatch_rule":
+     {   
+       "rule": {
+         "dispatchRuleDirect": {
+           "roomName": "my-room-01"
+         }   
+       },  
+       "name": "My dispatch rule"
+     }   
+ }
