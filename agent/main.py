@@ -22,7 +22,6 @@ from livekit.agents import (
 )
 from livekit.agents.pipeline import VoicePipelineAgent
 from livekit.plugins import deepgram, silero, turn_detector, noise_cancellation, elevenlabs, groq
-import dropbox
 
 load_dotenv(dotenv_path=".env.local")
 logger = logging.getLogger("voice-agent")
